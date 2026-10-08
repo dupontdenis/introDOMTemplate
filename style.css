@@ -31,3 +31,20 @@ body {
   display: block;
   font-size: 50px;
 }
+
+/* Couleur selon le groupe */
+
+.group-A {
+  background-color: #e3f2fd;
+  border-color: #2196f3;
+}
+
+.group-B {
+  background-color: #e8f5e9;
+  border-color: #4caf50;
+}
+
+.group-C {
+  background-color: #fff3e0;
+  border-color: #ff9800;
+}
